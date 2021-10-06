@@ -1,5 +1,5 @@
 require('apostrophe')({
-  shortName: 'a3-boilerplate',
+  shortName: 'cms',
   modules: {
     // Apostrophe module configuration
     // *******************************
